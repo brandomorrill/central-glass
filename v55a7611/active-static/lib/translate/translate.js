@@ -32,7 +32,7 @@ define(['localize', 'locale', 'jquery'], function (localize, getLocale, $) {
             var url = resourceUrl + namespace + '/',
                 deferred = $.Deferred(),
                 promise = deferred.promise();
-            require([url + '?callback=define'], function (resources) {
+            require([url.replace(/\/$/, '') + '?callback=define'], function (resources) {
                 add(resources);
                 deferred.resolve(resources);
             });

@@ -42,14 +42,18 @@
             webs = window.webs || {};
             webs.locale = 'en-US';
             webs.props = {
-                globalAssetBaseURL: 'https://static.websimages.com/v55a7611',
-                staticServer: 'https://static.websimages.com',
-                membersServer: 'https://members.webs.com',
-                dynamicAssetServer: 'https://dynamic.websimages.com',
+                // globalAssetBaseURL: 'https://static.websimages.com/v55a7611',
+                globalAssetBaseURL: '/v55a7611',
+                // staticServer: 'https://static.websimages.com',
+                staticServer: '/',
+                // membersServer: 'https://members.webs.com',
+                membersServer: '/members/',
+                // dynamicAssetServer: 'https://dynamic.websimages.com',
+                dynamicAssetServer: '/dynamic',
                 modulesVersion: 'v55a7611',
                 environment: 'production',
-                imageProcessorServer: 'https://mediaprocessor.websimages.com',
-                thumbServer: 'https://thumbs.webs.com',
+                // imageProcessorServer: 'https://mediaprocessor.websimages.com',
+                // thumbServer: 'https://thumbs.webs.com',
             };
             webs.theme = {
                 slug: '51a753c551e300616a000004',
@@ -82,8 +86,8 @@
                 thumb: 'thumbs\/1.png',
                 css: 'css\/1.less',
             };
-            webs.theme.url =
-                'https://dynamic.websimages.com/s/themes/51a753c551e300616a000004/v1.43';
+            // webs.theme.url =
+            //     'https://dynamic.websimages.com/s/themes/51a753c551e300616a000004/v1.43';
             webs.theme.variables = {
                 text: {
                     lineHeight: 18,
@@ -189,18 +193,18 @@
                     type: 'font',
                 },
             };
-            webs.site = {
-                url: 'https://centralglass.webs.com/',
-                id: 41921930,
-                premium: true,
-            };
+            // webs.site = {
+            //     url: 'https://centralglass.webs.com/',
+            //     id: 41921930,
+            //     premium: true,
+            // };
             webs.locale = 'en-US';
             webs.renderedModulesPromises = [];
         </script>
-        <script src="https://static.websimages.com/active-static/lib/modernizr-old.js"></script>
-        <script src="https://static.websimages.com/static/global/js/require.js"></script>
+        <script src="/modernizr-old.js"></script>
+        <script src="/require.js"></script>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
-        <script src="https://static.websimages.com/active-static/target/apps/bootstrap.js"></script>
+        <script src="/bootstrap.js"></script>
         <script>
             define('moduleVersions', function () {
                 return {
@@ -269,19 +273,10 @@
             });
         </script>
 
-        <link
-            id="webs-theme-css"
-            rel="stylesheet"
-            type="text/css"
-            href=".theme.css@pubDate=230605133236.css"
-        />
-        <link
-            rel="stylesheet"
-            type="text/css"
-            href="https://static.websimages.com/v55a7611/static/projects/finch/css/sitebase.css"
-        />
+        <link id="webs-theme-css" rel="stylesheet" type="text/css" href="./theme.css" />
+        <link rel="stylesheet" type="text/css" href="./sitebase.css" />
         <script src="https://www.google.com/recaptcha/api.js" async defer></script>
-        <script src="https://static.websimages.com/v55a7611/active-static/target/internal/sitebuilder/view/view.app.js"></script>
+        <script src="./view.app.js"></script>
         <meta name="fw:category" content="0" />
         <script type="text/javascript">
             var _gaq = _gaq || [];
@@ -726,7 +721,7 @@
                                                                     height: 200px;
                                                                 "
                                                                 class="fw_image_computer fwSizeProp"
-                                                                src="https://www.centralglass.us/sliding-automatic-door-for-.jpg"
+                                                                src="./sliding-automatic-door-for-.jpg"
                                                         /></font>
                                                     </p>
                                                     <p style="text-align: center">
@@ -1009,11 +1004,7 @@
                 builderType: 'SB_3',
             };
         </script>
-        <script
-            data-keep-for-mobile="2"
-            async
-            src="https://static.websimages.com/active-static/target/stats/collector.js"
-        ></script>
+        <script data-keep-for-mobile="2" async src="/stats_collector.js"></script>
         <script type="text/javascript">
             (function () {
                 var ga = document.createElement('script');

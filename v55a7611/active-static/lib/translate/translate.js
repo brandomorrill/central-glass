@@ -10,7 +10,7 @@ define(['localize', 'locale', 'jquery'], function (localize, getLocale, $) {
         resourceUrl,
         locale = getLocale(localeName),
         NOOP_NAMESPACE = 'none';
-    resourceUrl = './dynamic/s/resources/' + localeName + '/';
+    resourceUrl = '/s/resources/' + localeName + '/';
     if (typeof webs !== 'undefined' && webs.props && webs.props.dynamicAssetServer) {
         resourceUrl = webs.props.dynamicAssetServer + resourceUrl;
     }

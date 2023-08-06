@@ -1441,7 +1441,7 @@ div.webs-frame-photocorners div.webs-frame-pc-br {
     height: 31px;
     margin-top: 4px;
     margin-left: 2px;
-    background: transparent url('/style01.png');
+    background: transparent url('./style01.png');
 }
 .w-social-links-style1 .w-social-links_resizer .w-social_link-facebook {
     background-position: 0px 0px;
@@ -1485,7 +1485,7 @@ div.webs-frame-photocorners div.webs-frame-pc-br {
     height: 16px;
     margin-top: 2px;
     margin-left: 1px;
-    background: transparent url('/style02.png');
+    background: transparent url('./style02.png');
 }
 .w-social-links-style2 .w-social-links_resizer .w-social_link-facebook {
     background-position: 0px 0px;
@@ -1529,7 +1529,7 @@ div.webs-frame-photocorners div.webs-frame-pc-br {
     height: 46px;
     margin-top: 4px;
     margin-left: 2px;
-    background: transparent url('dynamic/s/modules/social-links/v1.23/icons/style03.png');
+    background: transparent url('./dynamic/s/modules/social-links/v1.23/icons/style03.png');
 }
 .w-social-links-style3 .w-social-links_resizer .w-social_link-facebook {
     background-position: 0px 0px;
@@ -1573,7 +1573,7 @@ div.webs-frame-photocorners div.webs-frame-pc-br {
     height: 32px;
     margin-top: 2px;
     margin-left: 1px;
-    background: transparent url('/dynamic/s/modules/social-links/v1.23/icons/style04.png');
+    background: transparent url('./dynamic/s/modules/social-links/v1.23/icons/style04.png');
 }
 .w-social-links-style4 .w-social-links_resizer .w-social_link-facebook {
     background-position: 0px 0px;
@@ -1617,7 +1617,7 @@ div.webs-frame-photocorners div.webs-frame-pc-br {
     height: 32px;
     margin-top: 2px;
     margin-left: 1px;
-    background: transparent url('/dynamic/s/modules/social-links/v1.23/icons/style05.png');
+    background: transparent url('./dynamic/s/modules/social-links/v1.23/icons/style05.png');
 }
 .w-social-links-style5 .w-social-links_resizer .w-social_link-facebook {
     background-position: 0px 0px;
@@ -1661,7 +1661,7 @@ div.webs-frame-photocorners div.webs-frame-pc-br {
     height: 16px;
     margin-top: 1px;
     margin-left: 0px;
-    background: transparent url('/dynamic/s/modules/social-links/v1.23/icons/style06.png');
+    background: transparent url('./dynamic/s/modules/social-links/v1.23/icons/style06.png');
 }
 .w-social-links-style6 .w-social-links_resizer .w-social_link-facebook {
     background-position: 0px 0px;
@@ -1705,7 +1705,7 @@ div.webs-frame-photocorners div.webs-frame-pc-br {
     height: 24px;
     margin-top: 2px;
     margin-left: 2px;
-    background: transparent url('/dynamic/s/modules/social-links/v1.23/icons/style07.png');
+    background: transparent url('./dynamic/s/modules/social-links/v1.23/icons/style07.png');
 }
 .w-social-links-style7 .w-social-links_resizer .w-social_link-facebook {
     background-position: 0px 0px;
@@ -1749,7 +1749,7 @@ div.webs-frame-photocorners div.webs-frame-pc-br {
     height: 24px;
     margin-top: 2px;
     margin-left: 2px;
-    background: transparent url('/dynamic/s/modules/social-links/v1.23/icons/style08.png');
+    background: transparent url('./dynamic/s/modules/social-links/v1.23/icons/style08.png');
 }
 .w-social-links-style8 .w-social-links_resizer .w-social_link-facebook {
     background-position: 0px 0px;
@@ -1793,7 +1793,7 @@ div.webs-frame-photocorners div.webs-frame-pc-br {
     height: 31px;
     margin-top: 4px;
     margin-left: 2px;
-    background: transparent url('/style01.png');
+    background: transparent url('./style01.png');
 }
 .style1 .w-social-links_resizer .w-social_link-facebook {
     background-position: 0px 0px;
@@ -1837,7 +1837,7 @@ div.webs-frame-photocorners div.webs-frame-pc-br {
     height: 16px;
     margin-top: 2px;
     margin-left: 1px;
-    background: transparent url('/style02.png');
+    background: transparent url('./style02.png');
 }
 .style2 .w-social-links_resizer .w-social_link-facebook {
     background-position: 0px 0px;
@@ -1881,7 +1881,7 @@ div.webs-frame-photocorners div.webs-frame-pc-br {
     height: 46px;
     margin-top: 4px;
     margin-left: 2px;
-    background: transparent url('/dynamic/s/modules/social-links/v1.23/icons/style03.png');
+    background: transparent url('./dynamic/s/modules/social-links/v1.23/icons/style03.png');
 }
 .style3 .w-social-links_resizer .w-social_link-facebook {
     background-position: 0px 0px;
@@ -1925,7 +1925,7 @@ div.webs-frame-photocorners div.webs-frame-pc-br {
     height: 32px;
     margin-top: 2px;
     margin-left: 1px;
-    background: transparent url('/dynamic/s/modules/social-links/v1.23/icons/style04.png');
+    background: transparent url('./dynamic/s/modules/social-links/v1.23/icons/style04.png');
 }
 .style4 .w-social-links_resizer .w-social_link-facebook {
     background-position: 0px 0px;
@@ -1969,7 +1969,7 @@ div.webs-frame-photocorners div.webs-frame-pc-br {
     height: 32px;
     margin-top: 2px;
     margin-left: 1px;
-    background: transparent url('/dynamic/s/modules/social-links/v1.23/icons/style05.png');
+    background: transparent url('./dynamic/s/modules/social-links/v1.23/icons/style05.png');
 }
 .style5 .w-social-links_resizer .w-social_link-facebook {
     background-position: 0px 0px;
@@ -2013,7 +2013,7 @@ div.webs-frame-photocorners div.webs-frame-pc-br {
     height: 16px;
     margin-top: 1px;
     margin-left: 0px;
-    background: transparent url('/dynamic/s/modules/social-links/v1.23/icons/style06.png');
+    background: transparent url('./dynamic/s/modules/social-links/v1.23/icons/style06.png');
 }
 .style6 .w-social-links_resizer .w-social_link-facebook {
     background-position: 0px 0px;
@@ -2057,7 +2057,7 @@ div.webs-frame-photocorners div.webs-frame-pc-br {
     height: 24px;
     margin-top: 2px;
     margin-left: 2px;
-    background: transparent url('/dynamic/s/modules/social-links/v1.23/icons/style07.png');
+    background: transparent url('./dynamic/s/modules/social-links/v1.23/icons/style07.png');
 }
 .style7 .w-social-links_resizer .w-social_link-facebook {
     background-position: 0px 0px;
@@ -2101,7 +2101,7 @@ div.webs-frame-photocorners div.webs-frame-pc-br {
     height: 24px;
     margin-top: 2px;
     margin-left: 2px;
-    background: transparent url('/dynamic/s/modules/social-links/v1.23/icons/style08.png');
+    background: transparent url('./dynamic/s/modules/social-links/v1.23/icons/style08.png');
 }
 .style8 .w-social-links_resizer .w-social_link-facebook {
     background-position: 0px 0px;
